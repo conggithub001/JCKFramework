@@ -10,6 +10,6 @@
 @implementation ToolsManager
 - (void)showMBP{
     NSLog(@"ToolsManager showMBP");
-    [MBProgressHUD wj_showSuccess:@"成功调用"];
+    [MBProgressHUD wj_showSuccess:@"测试成功调用"];
 }
 @end
