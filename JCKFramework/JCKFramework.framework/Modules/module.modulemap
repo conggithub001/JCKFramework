@@ -1,0 +1,6 @@
+framework module JCKFramework {
+  umbrella header "JCKFramework.h"
+
+  export *
+  module * { export * }
+}
